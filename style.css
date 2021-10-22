@@ -1,0 +1,46 @@
+/* Partie reservee au CSS */
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: purple;  
+}
+
+body {
+    background: #FFF7E0;
+    color: #c71aa1;
+    font-family: 'Lora', serif;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.bloc-un {
+    color: rgba(245, 8, 162, 0.966);
+background-color: pink;
+text-align:center;
+margin: 20px 0px;
+padding: 40px;
+box-shadow: 0px 10px 30px rgba(0 0 0 0.1);
+border-radius: 5px;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.mon-bouton {
+    background-color: purple;
+    color: white;
+    font-size: 25px;
+    padding: 5px 20px;
+    text-decoration: none;
+}
+
+.conteneur {
+    margin : 0 auto;
+    width: 650px;
+
+}
